@@ -12,6 +12,7 @@ from math import pi
 
 def cos_approx(x, accuracy=10):
     """
+    cos(x)
     """
     return 
 
